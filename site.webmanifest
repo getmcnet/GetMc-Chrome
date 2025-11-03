@@ -1,0 +1,9 @@
+{
+    "name": "Eaglercraft - Play Minecraft in Browser",
+    "short_name": "Eaglercraft",
+    "description": "Play Minecraft directly in your browser with no downloads required",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50"
+  }
